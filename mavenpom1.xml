@@ -1,7 +1,7 @@
-<artifactId>my-maven-project</artifactId>
+<artifactId>new1-maven-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>new-maven-project</name>
+  <name>new1-maven-project</name>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
@@ -22,9 +22,9 @@
     </plugins>
   </build>
   <properties>
-          <sonar.host.url>http://10.10.30.206:9000</sonar.host.url>
+    <sonar.host.url>http://10.10.30.206:9000</sonar.host.url>
     <sonar.login>092fdf9ab988219185d967ff9ac5fca696730695</sonar.login>
-    <!-- You can configure more properties as needed -->
+    <sonar.projectKey>testmavengit</sonar.projectKey>
   </properties>
   <dependencies>
     <dependency>

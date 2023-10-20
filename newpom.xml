@@ -27,8 +27,6 @@
     </plugins>
   </build>
   <properties>
-    <sonar.host.url>http://10.10.30.206:9000</sonar.host.url>
-    <sonar.login>092fdf9ab988219185d967ff9ac5fca696730695</sonar.login>
     <sonar.projectKey>testmavengit</sonar.projectKey>
   </properties>
   <dependencies>

@@ -1,7 +1,7 @@
 <artifactId>my-maven-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>my-maven-project</name>
+  <name>new-maven-project</name>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
